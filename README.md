@@ -14,5 +14,11 @@ Pronouns: he/they (any will work)
 
 Currently Learning: Java, C++, and C#
 
+Age: 15
+
+Location: California. That's all you need to know.
+
+
+
 ---
 Thanks for reading!
