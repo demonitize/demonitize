@@ -14,7 +14,7 @@ Pronouns: he/him (any will work)
 
 Currently Learning: Java, C++, and C#
 
-Current Project: Better TMI.js
+Current Project: Demonitized Bot (Twitch and Discord)
 
 Age: 15
 
