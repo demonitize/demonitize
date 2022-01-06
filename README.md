@@ -12,11 +12,11 @@ I am also a pretty active user in [Quimbly3](https://twitch.tv/quimbly3), [Paste
 
 Pronouns: he/him (any will work)
 
-Currently Learning: Java, C++, and C#
+Currently Learning: **C#** (actively learning), **Java**, and **C++**
 
-Current Project: Demonitized Bot (Twitch and Discord)
+Current Project: **Demonitized Bot** (Twitch and Discord)
 
-Age: 15
+Age: 16
 
 Location: California. That's all you need to know.
 
