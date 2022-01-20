@@ -20,7 +20,7 @@ Age: 16
 
 Location: California. That's all you need to know.
 
-
+[Send me tips/donations here](https://cash.app/$demonitizedboi)
 
 ---
 Thanks for reading!
