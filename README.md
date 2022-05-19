@@ -20,6 +20,8 @@ Age: 16
 
 Location: California. That's all you need to know.
 
+If you need to contact me for any reason, please DM `DEMONITIZED BOI#6969` on Discord, or send an email to [demonitize@demonitize.is-a.dev](mailto:demonitize@demonitize.is-a.dev)
+
 Operating Systems: 
 <img src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="Dell Laptop">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
@@ -48,6 +50,7 @@ Languages:
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
 
 [Send me tips/donations here](https://cash.app/$demonitizedboi)
+
 
 ---
 Thanks for reading!
