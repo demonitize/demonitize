@@ -14,7 +14,7 @@ Pronouns: he/him (any will work)
 
 Currently Learning: **C#** (actively learning), **Java**, and **C++**
 
-Current Project: **Demonitized Bot** (Twitch and Discord)
+Current Project: **some random fucking FiveM server because i have nothing else to do**
 
 Age: 16
 
