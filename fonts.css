@@ -1,1 +1,20 @@
-
+@font-face {
+  font-family: BeonMedium;
+  src: url(https://raw.githubusercontent.com/demonitize/demonitize/main/BeonMedium-7Z34.ttf);
+}
+@font-face {
+  font-family: Gyparody;
+  src: url(https://raw.githubusercontent.com/demonitize/demonitize/main/gyparody.ttf);
+}
+@font-face {
+  font-family: DsDigital;
+  src: url(https://raw.githubusercontent.com/demonitize/demonitize/main/dsdigital.ttf);
+}
+@font-face {
+  font-family: GameOver;
+  src: url(https://raw.githubusercontent.com/demonitize/demonitize/main/game_over.ttf);
+}
+@font-face {
+  font-family: DsDigit;
+  src: url(https://raw.githubusercontent.com/demonitize/demonitize/main/dsdigit.ttf);
+}
