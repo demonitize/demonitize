@@ -16,7 +16,7 @@ Currently Learning: **C#** (actively learning), **Java**, and **C++**
 
 Current Project: **some random fucking FiveM server because i have nothing else to do**
 
-Age: 16
+Age: 17
 
 Location: California. That's all you need to know.
 
