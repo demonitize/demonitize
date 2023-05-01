@@ -14,7 +14,7 @@ Pronouns: he/him (any will work)
 
 Currently Learning: **C#** (actively learning), **Java**, and **C++**
 
-Current Project: **some random fucking FiveM server because i have nothing else to do**
+Current Project: **Modding Just Dance 2017 on PC**
 
 Age: 17
 
