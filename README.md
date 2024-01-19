@@ -16,7 +16,7 @@ Currently Learning: **C#** (actively learning), **Java**, and **C++**
 
 Current Project: **Modding Just Dance 2017 on PC**
 
-Age: 17
+Age: 18
 
 Location: California. That's all you need to know.
 
