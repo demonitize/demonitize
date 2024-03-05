@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Refresh The Damn WorkKeys
 // @namespace    http://github.com/demonitize
-// @version      1.0.0
+// @version      1.0.1
 // @description  Automagically refreshes the authorization page for WorkKeys
 // @author       You
 // @match        https://workkeys.actdigitalservices.org/ltiProctoring/Monitor/index
