@@ -3,7 +3,7 @@
 // @namespace    http://github.com/demonitize
 // @version      1.0.1
 // @description  Automagically refreshes the authorization page for WorkKeys
-// @author       You
+// @author       Dexter
 // @match        https://workkeys.actdigitalservices.org/ltiProctoring/Monitor/index
 // @icon         https://static.wikia.nocookie.net/among-us-wiki/images/3/31/Red.png/revision/latest/thumbnail/width/360/height/360?cb=20230601155504
 // @grant        none
