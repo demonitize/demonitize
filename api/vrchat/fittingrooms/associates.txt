@@ -90,3 +90,6 @@ CorruptTag
 p0ntiac
 KYnomite
 Floof
+Snord
+Smoogley
+ComboWDash
