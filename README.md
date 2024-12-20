@@ -14,7 +14,7 @@ Pronouns: he/him (any will work)
 
 Currently Learning: **C#** (actively learning), **Udon**, and **C++**
 
-Current Project: **Managing VRChat Kmart V2**
+Current Project: **Managing VRC Kmart**
 
 Age: 18
 
