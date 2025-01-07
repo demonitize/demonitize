@@ -12,11 +12,11 @@ I am also a pretty active user in [PastelsDarling](https://twitch.tv/pastelsdarl
 
 Pronouns: he/him (any will work)
 
-Currently Learning: **C#** (actively learning), **Udon**, and **C++**
+Currently Learning: **C#** (actively learning) and **UdonSharp**
 
-Current Project: **Managing VRC Kmart**
+Current Project: **Developer at [VRC Kmart](https://discord.com/invite/kmart)**
 
-Age: 18
+Age: 19
 
 Location: California. That's all you need to know.
 
