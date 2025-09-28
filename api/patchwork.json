@@ -1,5 +1,7 @@
 {
   "_disclaimer": "If you're reading this, you shouldn't be.",
-  "blueprintID": "",
-  "startTS": 0
+  "config": {
+    "uuid": "71f3f6cf-d392-4da1-a7c8-61b6422f40a9",
+    "startTS": 0
+  }
 }
