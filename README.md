@@ -75,7 +75,7 @@ Languages:
 
 ---
 
-<!-- [Send me tips/donations here](https://cash.app/$demonitizedboi) This no longer works :(-->
+[Send me tips/donations here](https://cash.app/$demonitizedboi)
 
 ---
 
